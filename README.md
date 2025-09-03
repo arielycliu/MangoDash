@@ -35,12 +35,12 @@ Opening up the Facebook statistics
 
 ## ⛵ What's next for MangoDash
 Features we'd like to implement into MangoDash in the future
-- [ ] More social media platforms (currently we only integrate with facebook or instagram)
+- [ ] More social media platforms (currently we only integrate with Facebook or Instagram)
 - [ ] Simplify API Token process (streamline the process to get the API key for the user, perhaps logging into the platform through MangoDash)
 - [ ] Add more statistics (adding a page to look at general statistics cross platforms, tracking average like growth over time etc)
 - [ ] Adding a ranking system
 
-### 🫂 Contributers
+### 🫂 Contributors
 https://github.com/Burakkey
 https://github.com/cndlnn
 https://github.com/aungzm06
